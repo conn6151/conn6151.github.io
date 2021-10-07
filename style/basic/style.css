@@ -1,0 +1,15 @@
+/* style/basic/style.css */
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: smaller;
+    color: #c3c3c3;
+    background: #282828;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* EOF */
